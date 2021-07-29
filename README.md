@@ -4,7 +4,7 @@ This is a backend api server project for Gain Solution task
 
 First run the command:
 ```bash
-npm init
+npm install
 ```
 
 Then run the development server:
